@@ -2,5 +2,5 @@
 
 
 1) cd client
-2) npm i;
-3) npm run start;
+2) npm i
+3) npm run start
