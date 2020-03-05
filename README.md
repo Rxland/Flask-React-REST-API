@@ -1,6 +1,7 @@
 # Flask-React-REST-API
 
 
-1) cd client
-2) npm i
-3) npm run start
+1) run app.py ( server )
+2) cd client
+3) npm i
+4) npm run start
