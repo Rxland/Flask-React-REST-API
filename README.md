@@ -1,2 +1,6 @@
 # Flask-React-REST-API
-Flask_+_react_REST_API
+
+
+cd client 
+npm i
+npm run start
